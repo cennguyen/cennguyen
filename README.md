@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @cennguyen
 - 👀 I’m interested in become Front-End Developer especially ReactJS
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫  reach me:annp62923@gmail.com
 
 <!---
 cennguyen/cennguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
